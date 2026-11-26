@@ -38,7 +38,7 @@ CREATE TABLE attendance_record (
         REFERENCES student_info(id)
 );
 
-Project Title: Student Attendance Monitoring System Team/Members: Char May Armada, Lenny Galeno, Daniela Pastera, Raysian Kent Guilaran, Paul Andrie Velasco, Kim Laurence Maniero Section: BSIT 2-B Instructor: Anne Gee Almarza Date: November 23, 2026.
+Project Title: Student Attendance Monitoring System Team/Members: Char May Armada, Lenny Galeno, Daniela Pastera, Raysian Kent Guilaran, Paul Andrie Velasco, Kim Laurence Maniero Section: BSIT 2-B Assigned Roles: Leader: Kim Laurence Maniero , Programmer: Paul Andrie Velasco, Kim Laurence Maniero, Power Point Presentation: Lenny Galeno, Daniela Pastera, Backend: Raysian Kent Guilaran, Paul Andrie Velasco, Kim Laurence Maniero, Frontend:  Char May Armada, Documentation: Paul Andrie Velasco
 
 Project Overview: Problem -
 Attendance is recorded on manual flat sheets for every class session, with each student's id, name, section, course, date, and status. Existing problems include student details repeating in every log, status typed as free text, totals tallied by hand, and records not being linked.
