@@ -94,3 +94,6 @@ Purpose: Stores daily attendance logs for students across class sessions. Field 
 Important keys:
 - Primary Key (PK): record_id
 - Foreign Key (FK): id references student_info(id).
+
+- <img width="611" height="429" alt="Screenshot 2026-11-27 070628" src="https://github.com/user-attachments/assets/57daa73e-2adc-451f-a12d-a090fe8d7fa3" />
+
